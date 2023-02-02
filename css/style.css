@@ -7,20 +7,33 @@
 }
 /* header  */
 header{
-    width: 100%;
-    padding: 45px 80px 58px 80px;
-    background-color: #ffffff;
-    border-radius: 0px 0px 50px 50px;
-    position: fixed;
-    z-index: 1;
     max-width: inherit;
     width: inherit;
-    transform: translateX(50%)
+    /* width: 100%; */
+    border-radius: 0px 0px 50px 50px;
+    padding: 45px 80px 58px 80px;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
     
+    /* transform: translateX(50%)
+     */
 }
 .fa-bars{
     color: #125806;
     /* width: 60px;
     height: 46.75px; */
 }
+
+/* section  */
+
+.section1{
+
+}
+
+
 
