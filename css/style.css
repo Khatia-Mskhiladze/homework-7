@@ -43,7 +43,7 @@ header{
     width: 100%;
     height: 100%;
 }
-p{
+.section_text{
     width: 584px;
     height: 156px;
     font-size: 40px;
@@ -80,6 +80,29 @@ h1{
 .card{
     width: 30%;
     height: 271px;
-   
 }
 
+/* footer  */
+
+footer{
+    width: 100%;
+    height: 292px;
+    background-color: #ffffff;
+
+}
+.footer_div{
+    padding: 52px 73px 78px 82px;
+    display: flex;
+    justify-content: space-between;
+    color: #413D3D;
+    
+}
+h3{
+    margin-bottom: 47px;
+    font-size: 20px;
+}
+p{
+    font-size: 16px;
+    text-align: 13px;
+    
+}
